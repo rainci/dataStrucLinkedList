@@ -1,0 +1,1 @@
+console.log('我是another文件，可以在此写你想写的逻辑哦')
